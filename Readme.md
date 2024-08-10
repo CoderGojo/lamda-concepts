@@ -37,6 +37,9 @@ This module covers how to utilize lambdas and method references with Java collec
 ## Conclusion
 By the end of this course, you will have a solid understanding of how to effectively use lambdas, functional interfaces, and method references in your Java programming. This knowledge will help you write cleaner, more efficient code and take full advantage of Java's functional programming capabilities.
 
+### Requirements:
+Instead of JDK 8 I have used JDK 17 for codes.
+IntellJ IDEA
 ---
 
 Feel free to dive into the modules in any order, but for a structured learning experience, we recommend following them sequentially. Happy coding!

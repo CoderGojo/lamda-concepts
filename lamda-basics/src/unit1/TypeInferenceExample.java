@@ -1,3 +1,5 @@
+package unit1;
+
 public class TypeInferenceExample {
 
     public static void main(String[] args){

@@ -17,3 +17,5 @@
    - Functional Interface is additionally recognized as Single Abstract Method Interfaces (SAM).
    - Functional interfaces are used and executed by representing the interface with an annotation called @FunctionalInterface.
  
+ ## What are Streams?
+   - A sequence of elements supporting sequential and parallel aggregate operations. 
